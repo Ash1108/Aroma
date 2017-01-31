@@ -1,1 +1,1 @@
-# Aroma is a Restaurant website developed using HTML, CSS and Jquery.
+# Aroma is a restaurant website developed using HTML, CSS and Jquery.
